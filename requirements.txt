@@ -16,7 +16,7 @@ future==0.17.1
 idna==2.8
 jdcal==1.4
 libxml2==2.9.2
-libxslt==1.1.28
+libxslt==1.1.27
 lxml==4.2.5
 mysqlclient==1.4.2
 oauthlib==2.1.0
