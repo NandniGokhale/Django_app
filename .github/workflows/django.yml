@@ -6,7 +6,6 @@ on:
   
 jobs:
   build:
-how to install command write in yaml file
     runs-on: self-hosted
     strategy:
       max-parallel: 4
